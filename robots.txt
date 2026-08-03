@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-arjje1.goltogel17pew.site/sitemap.xml
